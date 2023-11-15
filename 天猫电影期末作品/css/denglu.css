@@ -1,0 +1,30 @@
+*{margin: 0;padding: 0;}
+*, :after, :before {-webkit-tap-highlight-color: rgba(0,0,0,0);}
+img {border-style: none;}
+a{text-decoration: none;}
+
+
+
+.top{display: block;width: 980px;height: auto;margin: 40px auto 30px; position: relative;overflow: hidden;}
+.top_logo{width: 230px;height: 45px;background-position: -716px -677px;background-image: url(../img/denglu_logopng.png);
+background-size: initial;margin: 0;background-repeat: no-repeat;float: left;display: inline;text-indent: -9999px;overflow: hidden;}
+
+.main{margin:  0 auto 70px;width: 980px; display: flex;}
+.main_left-logo{display: block;float: left;height: 370px;margin: 0 115px 0 0;width: 480px;}
+.App{margin-top: 60px;width: 350px;height: 45px;}
+.app_1{border-bottom: 1px solid #e5e5e5;padding: 0.6em 0;height: 1.4em;-webkit-box-align: center;justify-content: space-around;}
+.app_shouji{outline: none;background-color: inherit;border: none;color: #bbbbbb}
+.yanzhengma{font-size: 1em;;float: right;}
+.y1{float: right;color: #ccc}
+.app_2{display: flex;justify-content: space-around;-webkit-box-align: center;align-items: center;
+margin-top: 1em;padding: 0.6em 0;border-bottom: 1px solid #e5e5e5;width: 100%;user-select: none;}
+.y2{color: #ccc -webkit-box-flex: 1;flex: 1;width: 100%;border: 0;min-width: 0;-webkit-tap-highlight-color: rgba(0,0,0,0);font-size: 1em;}
+
+.denglu{margin-top: 1em;}
+.y3{height: 3em;border-radius: 16.46em;width: 350px;}
+.e1{width: 12em;height: 2.3em;text-align: center;color: #fff;border-radius: 0.3em;background-color: #222;
+font-family: PingFangSC-Medium;font-size: .8em;font-weight: 400;position: relative;opacity: .7;left: -0.9em;top: -0.8em;}
+
+
+
+.end{color: #bbbbbb;font-size: 14px;}
